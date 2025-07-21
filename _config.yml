@@ -1,8 +1,0 @@
-title: W8BAIT
-description: Site oficial da W8BAIT
-baseurl: ""
-url: "https://www.w8bait.com"
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
